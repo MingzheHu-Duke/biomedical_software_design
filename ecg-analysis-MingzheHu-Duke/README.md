@@ -25,16 +25,16 @@ The local maximum values are regarded as peak, I called the scipy.signal.find_pe
 `mean_hr_bmp = num_beats/duration * 60`    
 
 ***Original***
-!["original"](/originalECG.jpg)  
+!["original"](originalECG.jpg)  
 
 ***Envelope of ECG Signal***
-!["ECGEnvelope.jpg"](/ECGEnvelope.jpg)  
+!["ECGEnvelope.jpg"](ECGEnvelope.jpg)  
 
 ***Comparison***
-!["compare.jpg"](/compare.jpg)  
+!["compare.jpg"](compare.jpg)  
 
 
-!["denoised_peak_detected.jpg"](/denoised_peak_detected.jpg)  
+!["denoised_peak_detected.jpg"](denoised_peak_detected.jpg)  
 ***After denoising with peaks detected***
   
   *v1.0.0*  
